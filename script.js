@@ -16,7 +16,4 @@ form.addEventListener('submit',(e)=>{
         error.innerText=messages[0]
     }
 })
-// form.addEventListener('submit',(e)=>{
-//     e.preventDefault()
-// })
 
